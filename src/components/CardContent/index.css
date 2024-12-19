@@ -115,14 +115,32 @@
     transform: rotate(-90deg);
 }
 
+.logos-container {
+    display: flex;
+    justify-content: space-between; /* Place elements at opposite edges */
+    align-items: center; /* Vertically align them */
+    position: relative;
+    width: 100%;
+  }
+
 .parental-adv {
     width: 55px;
     height: 55px;
     object-fit: cover;
-    display: -webkit-box;
-    margin-left: auto;
     
 }
+.PA {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: auto; 
+  }
+  .spotify-icon {
+    width: 35px; 
+    height: 35px; 
+    object-fit: contain;
+    margin-left: 10px;
+  }
 
 .download-button {
     display: block;

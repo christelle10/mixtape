@@ -173,9 +173,25 @@ const CardContent = () => {
                     </div> 
                 </div>
             }
-            <div className = "PA">
-                <img src="./parental.png" alt = 'parental-adv-img' className="parental-adv"></img>
+            <div className='logos-container'>
+              <div className='spotify-logo'>
+                {/* Insert your Spotify logo here */}
+                <img
+                  src='./spotify-logo.svg'
+                  alt='Spotify logo'
+                  className='spotify-icon'
+                />
+              </div>
+
+              <div className='PA'>
+                <img
+                  src='./parental.png'
+                  alt='parental-adv-img'
+                  className='parental-adv'
+                />
+              </div>
             </div>
+            
             </MixtapeCard>
             </div>
             
