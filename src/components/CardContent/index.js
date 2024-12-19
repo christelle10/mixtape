@@ -177,7 +177,7 @@ const CardContent = () => {
               <div className='spotify-logo'>
                 {/* Insert your Spotify logo here */}
                 <img
-                  src='./spotify-logo.svg'
+                  src='./spotify-logo.png'
                   alt='Spotify logo'
                   className='spotify-icon'
                 />
