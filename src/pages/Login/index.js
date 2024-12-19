@@ -13,7 +13,7 @@ const Login = () => {
         <div className = 'login'>
         <Card>
         <div className="login-prompt">
-            <h1 className="title">mixtape.me</h1>
+            <h1 className="title">mixtape.mee</h1>
             <h2 className="subtitle">
                 Get your own customized mixtape all with one click. 
                 
