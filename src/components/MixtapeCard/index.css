@@ -1,0 +1,22 @@
+.mixtape-card {
+    width: 355px;
+    background-color: #E6E4E0;
+    height: 570px;
+    border-radius: 1rem;
+    padding: 0.9rem 0.9rem 0.9rem 0.9rem;
+    
+  }
+  
+  @media only screen and (max-width: 620px) {
+    .card {
+      width: 90vw;
+      padding-left: 1.5rem;
+      padding-right: 1.5rem;
+    }
+  }
+  
+  @media only screen and (max-height: 400px) {
+    .card {
+      height: 350px;
+    }
+  }
