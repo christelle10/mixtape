@@ -1,5 +1,4 @@
-import React, { useEffect, useState } from 'react';
-import axios from 'axios';
+
 import CardContent from '../../components/CardContent';
 import "./index.css";
 
