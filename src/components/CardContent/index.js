@@ -115,7 +115,7 @@ const CardContent = () => {
             {
                 profile.display_name && 
                 <div className = "profile-details">
-                    <h1 className="profile-name">{profile.display_name}<span className="year"> 2023</span></h1>
+                    <h1 className="profile-name">{profile.display_name}<span className="year"> 2024</span></h1>
                 </div>
             }
             {
